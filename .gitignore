@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# FastF1 data cache (should not be committed)
+cache/
+
+# Streamlit secrets (if any are added later)
+.streamlit/secrets.toml
